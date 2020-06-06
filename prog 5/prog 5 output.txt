@@ -1,0 +1,19 @@
+Final Weights: 
+[[-3.76991787 -4.97313346  2.86557192]
+ [-2.9310945   5.81833501  2.39159111]
+ [-2.34302305 -0.31350085 -7.23082743]]
+
+Predict Accuracy:
+accuracy = 100.0%
+
+ Single Prediction not normalized
+[[0.10752868 0.38338604 0.0003692 ]]
+
+ Single Prediction normalized
+[0.2188727918248217, 0.7803757162351291, 0.0007514919400492654]
+
+Sum of Normalized Predictions
+1.0
+
+Class Prediction:
+[[2]]
